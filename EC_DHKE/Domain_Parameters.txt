@@ -1,0 +1,1 @@
+{"EC Param a": 2, "EC Param b": 2, "EC Param p": 17, "EC Param P": [5, 1], "EC Param E": 19}
